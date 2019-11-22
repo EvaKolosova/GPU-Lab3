@@ -1,0 +1,29 @@
+﻿D:\Visual Studio 2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (ProjectOpenCL_2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+cl : командная строка warning D9002: пропуск неизвестного параметра "/fp:fast2"
+  main.cpp
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(56): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(71): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(85): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(87): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(92): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(176): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(178): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(182): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(190): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(197): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(199): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(201): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(203): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(208): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(234): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\opencl_thirdlab\main.cpp(238): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 105 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ProjectOpenCL_2.vcxproj -> D:\Рабочий стол\GPU\OpenCL_thirdLab\x64\Release\ProjectOpenCL_3.exe

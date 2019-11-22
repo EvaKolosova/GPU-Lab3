@@ -1,0 +1,10 @@
+﻿Построение начато 19.10.2019 11:41:30.
+     1>Проект "C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\ProjectOpenCL_2\ProjectOpenCL_2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files (x86)\IntelSWTools\OpenCL\sdk\include" /Zi /nologo /W3 /WX- /Ox /Ob2 /Oi /Ot /GL /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt main.cpp
+     1>cl : командная строка error D8016: несовместимые параметры командной строки "/Ox" и "/RTC1"
+     1>Построение проекта "C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\ProjectOpenCL_2\ProjectOpenCL_2.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:00.14
