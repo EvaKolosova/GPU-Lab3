@@ -3,9 +3,9 @@
 const unsigned int SIZE = 256;
 const int threadsNum = 4;
 
-size_t K = 256;
-size_t M = 256;
-size_t N = 256;
+size_t K = 2048;
+size_t M = 2048;
+size_t N = 2048;
 
 int main(){
 	// TASK 1 --------------------------------------------------------------------------
